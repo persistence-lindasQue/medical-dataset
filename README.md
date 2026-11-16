@@ -96,10 +96,7 @@ one answerable and one unanswerable.]
 - **Expected before/after:** we expect abstention rate on unanswerable rows to rise and
   unsupported-claim rate to fall; we have no measurement to back a number.
 
-## Artifacts
-- HF datasets collection: [link]
-- HF models collection: none
-- GitHub repo: [link]
+
 
 ## Documentation and reproduction
 See the repo README for setup (Python 3.12) and commands:
@@ -107,10 +104,10 @@ See the repo README for setup (Python 3.12) and commands:
 `python build_grounded_dataset.py --data output/final --out output/grounded [--cross-split-distractors]`.
 
 ## Declaration of work done outside the hackathon
-[State whether any of this existed before Nov 1. If none: "None."]
+["None."]
 
 ## Teammates tagged
-[Names / handles, or "solo".]
+["solo".]
 
 ## LLM usage statement
 Substantial portions of the code and this write-up were produced with Claude's assistance,
